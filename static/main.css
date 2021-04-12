@@ -1,0 +1,35 @@
+@font-face{
+    font-family: 'f1';
+    src: url('/Formula_1/Formula1-Regular_web_0.ttf');
+}
+
+#main-title{
+    text-align : center;  
+    font-family: 'f1'; 
+}
+
+
+.main-container{
+    color: #DD636D;
+    margin: 0 auto;
+    width: 750px;
+    margin-top: 10px;
+    box-shadow: 4px 4px gray;
+}
+
+.main-information{
+    text-align: center;
+    margin: 0 auto;
+
+    color: black;
+}
+
+body{
+    background-color: #D3D4D9
+}
+
+#Capa_1{
+    height: 40px;
+    width: 40px;
+
+}
